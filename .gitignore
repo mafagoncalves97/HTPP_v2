@@ -1,0 +1,7 @@
+*.odb
+*.coe
+*.inp
+*.htpp
+*.dat
+*.ind
+HTPP\htpp_output\Figures
