@@ -4,4 +4,9 @@
 *.htpp
 *.dat
 *.ind
+*.csv
+*.svg
+*.jpg
+*.png
+*.tif
 HTPP\htpp_output\
