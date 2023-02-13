@@ -9,4 +9,9 @@
 *.jpg
 *.png
 *.tif
+*.eps
+*.pdf
+*.jpeg
+*.mesh
+*.pyc
 HTPP\htpp_output\
